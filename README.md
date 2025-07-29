@@ -5,7 +5,6 @@ SynergyBot is a voice-enabled AI chatbot with advanced scientific calculator fea
 
 ## 🌟 Features
 
-- 🎙️ Voice assistant integration
 - 🔢 Scientific calculator functions
 - 🌙 Light/Dark mode toggle
 - ➗ Floating-point arithmetic support
@@ -14,7 +13,6 @@ SynergyBot is a voice-enabled AI chatbot with advanced scientific calculator fea
 
 - Java (core logic)
 - JavaFX (for GUI)
-- Google Speech-to-Text API (optional for voice)
 - Git + GitHub for version control
 
 ## 🛠️ Getting Started
